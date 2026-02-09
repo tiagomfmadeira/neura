@@ -17,8 +17,10 @@ With the rise in popularity of different human-centred applications using 3D rec
 
 ## Citation
 
+If you use **NeurA** in your work, please cite:
+
 ```bibtex
-@Article{Madeira2024,
+@Article{10.3390/s24134141,
 AUTHOR = {Madeira, Tiago and Oliveira, Miguel and Dias, Paulo},
 TITLE = {Neural Colour Correction for Indoor 3D Reconstruction Using RGB-D Data},
 JOURNAL = {Sensors},
@@ -26,9 +28,6 @@ VOLUME = {24},
 YEAR = {2024},
 NUMBER = {13},
 ARTICLE-NUMBER = {4141},
-URL = {https://www.mdpi.com/1424-8220/24/13/4141},
-PubMedID = {39000926},
-ISSN = {1424-8220},
 DOI = {10.3390/s24134141}
 }
 ```
