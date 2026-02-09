@@ -8,8 +8,8 @@
 <sup>2</sup>Department of Electronics, Telecommunications and Informatics (DETI), University of Aveiro, Portugal  
 <sup>3</sup>Department of Mechanical Engineering (DEM), University of Aveiro, Portugal
 
-<img src='https://www.mdpi.com/sensors/sensors-24-04141/article_deploy/html/images/sensors-24-04141-g001.png'/>
-<img src='https://www.mdpi.com/sensors/sensors-24-04141/article_deploy/html/images/sensors-24-04141-g003.png'/>
+<img src='https://github.com/user-attachments/assets/9adc0562-9254-4d23-be95-98ad4dbcc88b'/>
+<img src='https://github.com/user-attachments/assets/f68d2779-9d4b-4cd6-8706-7c6e897b757e'/>
 
 ## Abstract
 
@@ -31,3 +31,9 @@ ARTICLE-NUMBER = {4141},
 DOI = {10.3390/s24134141}
 }
 ```
+
+---
+
+## License
+
+Distributed under the **GPL-3.0 License**. See [`LICENSE`](LICENSE) for more information.
